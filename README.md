@@ -30,13 +30,11 @@ These libraries can be installed with the following command "pip install [librar
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Geek for Geeks](https://www.geeksforgeeks.org/)
 * [LinkedIn Learning](https://www.linkedin.com/learning)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add usernames for logging purposes
 * Allow the user to choose what file chats are logged to
 * Fix notification sound
